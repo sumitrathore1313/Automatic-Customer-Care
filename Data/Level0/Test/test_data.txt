@@ -1,0 +1,1998 @@
+<category>
+<pattern> DEFINE A  </pattern>
+<template>
+The first letter of the roman alphabet.
+</template>
+</category>
+<category>
+<pattern> DEFINE AARDVARK </pattern>
+<template>
+An aardvark is a south african ant eating animal.
+</template>
+</category>
+<category>
+<pattern> DEFINE AARDWOLF  </pattern>
+<template>
+An aardwolf is a carnivorous mammal.
+</template>
+</category>
+<category>
+<pattern> DEFINE ABA </pattern>
+<template>
+An aba is a sack like garment worn by arabs.
+</template>
+</category>
+<category>
+<pattern> DEFINE ABACUS  </pattern>
+<template>
+An abacus is a counting frame.
+</template>
+</category>
+<category>
+<pattern> DEFINE ABBA </pattern>
+<template>
+<random>
+<li>   Abba is a father, it is the title of a bishop in the Syrian, Coptic, and Ethiopian Christian
+churches. </li>
+<li> Abba means father in Hebrew.It is used as an appelation of respect. </li>
+<li> Abba was this real cool 'seventies band man. </li>
+<li> Anna, Bjorn, Benny and Agnetha. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE ABBESS </pattern>
+<template>
+An abbess is the female superior of a community of nuns.
+</template>
+</category>
+<category>
+<pattern> DEFINE ABBEY </pattern>
+<template>
+An abbey is a body of monks or a monastic building.
+</template>
+</category>
+<category>
+<pattern> DEFINE ABBOT </pattern>
+<template>
+An abbot is the male superior of a community of monks.
+</template>
+</category>
+<category>
+<pattern> DEFINE ABBRACADABRA </pattern>
+<template>
+Abbracadabra is a qabbalistic magic word.
+</template>
+</category>
+<category>
+<pattern>  DEFINE ABBREVIATION </pattern>
+<template>
+An abbreviation is a short form of a word or words.
+</template>
+</category>
+<category>
+<pattern> DEFINE ABDOMEN </pattern>
+<template>
+<random>
+<li> The abdomen is the part of a creature's body between diaphragm and pelvis.  </li>
+<li> The area between the thorax and the pelvis, normally referred to as the stomach. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE ABODE </pattern>
+<template>
+Abode is a place where something lives.
+</template>
+</category>
+<category>
+<pattern> DEFINE ABOMASUM </pattern>
+<template>
+An abomasum is the fourth stomach of a ruminant.
+</template>
+</category>
+<category>
+<pattern> DEFINE ABORIGINE </pattern>
+<template>
+An aborigine is a member of an indigenous people.
+</template>
+</category>
+<category>
+<pattern> DEFINE ABORTION </pattern>
+<template>
+Abortion is the expulsion of the foetus from the uterus.
+</template>
+</category>
+<category>
+<pattern> DEFINE ABSCESS </pattern>
+<template>
+An abscess is a pus filled infection of an animal.
+</template>
+</category>
+<category>
+<pattern> DEFINE ABSURDISM </pattern>
+<template>
+Absurdism is the philosophy that we exist in a meaningless, irrational universe.
+</template>
+</category>
+<category>
+<pattern> DEFINE ABYSS </pattern>
+<template>
+An abyss is a very deep gorge.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACACIA </pattern>
+<template>
+The acacia is a leguminosae found in warm climates.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACANTHUS </pattern>
+<template>
+The acanthus is a herbaceous plant of south europe, asia and africa.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACCELERATION </pattern>
+<template>
+Acceleration is the rate at which a moving body increases in velocity.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACCELERATOR </pattern>
+<template>
+An accelerator is a device for increasing speed.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACCENT </pattern>
+<template>
+An accent is a local mode of pronunciation in speech.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACCENTOR </pattern>
+<template>
+An accentor is a type of bird of the prunelliadae family.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACCORDION </pattern>
+<template>
+An accordion is a small portable musical instrument with a keyboard and bellows.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACCURACY </pattern>
+<template>
+<random>
+<li> Accuracy is the quality or state of being accurate or exact. </li>
+<li> Accuracy represents the degree of certainty in measurement. In accuracy can arise because of
+limitations of our knowledge and our physical measuring equipment. Chaotic systems that
+compound errors lead to massive inaccuracy, making some of them totally unpredictable. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE ACE </pattern>
+<template>
+An ace is a playing card with one pip.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACETAL </pattern>
+<template>
+Acetal is a colourless liquid formed by oxidation of alcohol.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACETONE </pattern>
+<template>
+Acetone is a colourless liquid with the formulae ch2coch3.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACETYLENE </pattern>
+<template>
+Acetylene is a highly inflammable gas of the hydrocarbon family used for welding and cutting
+metals.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACHILLES TENDON </pattern>
+<template>
+The Achilles Tendon is the tendon which connects the heel with the calf of the leg, and is the
+principal extensor of the foot.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACID </pattern>
+<template>
+An acid is a chemical compound that reacts with metals to form salts by releasing hydrogen.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACLINIC </pattern>
+<template>
+The aclinic is a magnetic equator.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACNE </pattern>
+<template>
+Acne is a skin eruption due to inflammation of the sebaceous glands.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACONITE </pattern>
+<template>
+Aconite is a poisonous plant.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACONITINE </pattern>
+<template>
+Aconitine is a poisonous alkaloid derived from aconite.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACORN </pattern>
+<template>
+The acorn is the fruit of the oak tree.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACOTYLEDON </pattern>
+<template>
+An acotyledon is a plant with no distinct seed leaves, such as moss and fern.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACRE </pattern>
+<template>
+An acre is a measurement of land area being 4840 square yards.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACROMEGALY </pattern>
+<template>
+Acromegaly is a disease due to over activity of the pituitary gland results in excessive bone
+growth, especially the skull.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACRONYM </pattern>
+<template>
+<random>
+<li> An acronym is a word formed from the initials of other words. </li>
+<li> An acronym is an abbreviation made of letters, like A.L.I.C.E. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE ACROPHOBIA </pattern>
+<template>
+Acrophobia is the fear of high places.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACRYLIC </pattern>
+<template>
+Acrylic is a synthetic fibre derived from acrylic acid.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACTINIUM </pattern>
+<template>
+Actinium is a radioactive element.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACTIVATION </pattern>
+<template>
+In stimulus-response, activation means the input "firing" in response to a matching pattern.
+</template>
+</category>
+<category>
+<pattern> DEFINE ACTOR </pattern>
+<template>
+An actor is a dramatic performer.
+</template>
+</category>
+<category>
+<pattern> DEFINE ADA </pattern>
+<template>
+ADA is a trademark used for a structured computer programming language
+</template>
+</category>
+<category>
+<pattern> DEFINE ADDAX </pattern>
+<template>
+An addax is a large antelope found in north african deserts.
+</template>
+</category>
+<category>
+<pattern> DEFINE ADDER </pattern>
+<template>
+An adder is a venomous snake found in england.
+</template>
+</category>
+<category>
+<pattern> DEFINE ADENOIDS </pattern>
+<template>
+Adenoids is the pathological enlargement of the lymphoid tissue.
+</template>
+</category>
+<category>
+<pattern> DEFINE ADHESIVE </pattern>
+<template>
+An adhesive is a sticky substance.
+</template>
+</category>
+<category>
+<pattern> DEFINE ADIPOCERE </pattern>
+<template>
+Adipocere is a substance in dead bodies formed by decomposition of fatty acids when exposed to
+moisture.
+</template>
+</category>
+<category>
+<pattern> DEFINE ADIT </pattern>
+<template>
+An adit is the horizontal entrance to a mine.
+</template>
+</category>
+<category>
+<pattern> DEFINE ADMIRAL </pattern>
+<template>
+Admiral is a rank in the navy.
+</template>
+</category>
+<category>
+<pattern> DEFINE ADOBE </pattern>
+<template>
+An adobe is a mexican house made of clay bricks.
+</template>
+</category>
+<category>
+<pattern> DEFINE ADSL </pattern>
+<template>
+Asynchronous Digital Subscriber Line.
+</template>
+</category>
+<category>
+<pattern> DEFINE ADULT </pattern>
+<template>
+An adult is a fully grown being.
+</template>
+</category>
+<category>
+<pattern> DEFINE ADULTERY </pattern>
+<template>
+<random>
+<li> voluntary sexual intercourse between a married man and someone other than his wife or
+between a married woman and someone other than her husband; also : an act of adultery. </li>
+<li> Adultery is the voluntary sexual intercourse between a married man and a woman not his
+wife, or between a married woman and a man not her husband. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE ADVERTISING </pattern>
+<template>
+The art of selling through media.
+</template>
+</category>
+<category>
+<pattern> DEFINE ADYTUM </pattern>
+<template>
+An adytum is the inner most part of a temple.
+</template>
+</category>
+<category>
+<pattern> DEFINE ADZE </pattern>
+<template>
+An adze is a carpenter's tool for cutting away the surface of wood.
+</template>
+</category>
+<category>
+<pattern> DEFINE AERIAL </pattern>
+<template>
+An aerial is a receiving or radiating device used in radio communications.
+</template>
+</category>
+<category>
+<pattern> DEFINE AERODROME </pattern>
+<template>
+An aerodrome is a place where aircraft are based.
+</template>
+</category>
+<category>
+<pattern> DEFINE AERODYNAMICS </pattern>
+<template>
+Making airplanes fly.
+</template>
+</category>
+<category>
+<pattern> DEFINE AGAR </pattern>
+<template>
+Agar is a laxative substance obtained from seaweed.
+</template>
+</category>
+<category>
+<pattern> DEFINE AGARIC </pattern>
+<template>
+The agaric is a family of fungus.
+</template>
+</category>
+<category>
+<pattern> DEFINE AGATE </pattern>
+<template>
+Agate is a semi precious stone comprised mainly of silica.
+</template>
+</category>
+<category>
+<pattern> DEFINE AGENDA </pattern>
+<template>
+An agenda is a list of tasks.
+</template>
+</category>
+<category>
+<pattern> DEFINE AGNES </pattern>
+<template>
+Agnes is the patron saint of virgins.
+</template>
+</category>
+<category>
+<pattern> DEFINE AGNI </pattern>
+<template>
+Agni is the hindu god of fire.
+</template>
+</category>
+<category>
+<pattern> DEFINE AGORAPHOBIA </pattern>
+<template>
+Agoraphobia is the fear of open spaces.
+</template>
+</category>
+<category>
+<pattern> DEFINE AIDS </pattern>
+<template>
+AIDS is the modern day plague.
+</template>
+</category>
+<category>
+<pattern> DEFINE AIKIDO </pattern>
+<template>
+Japanese martial arts similar to Judo.
+</template>
+</category>
+<category>
+<pattern> DEFINE AIM </pattern>
+<template>
+American Indian Movement.
+</template>
+</category>
+<category>
+<pattern> DEFINE AIR </pattern>
+<template>
+The normal atmosphere of Earth, mostly nitrogen, oxygen and carbon dioxide.
+</template>
+</category>
+<category>
+<pattern> DEFINE AIRCRAFT </pattern>
+<template>
+An aircraft is a flying machine, a vessel which flies through the air rather than floats on water or
+travels along a road or rail.
+</template>
+</category>
+<category>
+<pattern> DEFINE AISLE </pattern>
+<template>
+An aisle is a passage between rows of seats.
+</template>
+</category>
+<category>
+<pattern> DEFINE AK47 </pattern>
+<template>
+The ak47 is a russian assault rifle.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALBACORE </pattern>
+<template>
+The albacore is a species of fish.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALBATROSS </pattern>
+<template>
+The albatross is a long winged oceanic bird.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALBURNUM </pattern>
+<template>
+The alburnum is the recently formed wood in trees.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALCATRAZ </pattern>
+<template>
+A former prison island in San Francisco.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALCOHOL </pattern>
+<template>
+Alcohol is a termed used by Philippus Aureolus Paracelsus for fine powder, meaning distilled
+spirit. It is colorless, volatile, and a pungent liquid. It is used in industry and medicine, and is the
+intoxicating element of whiskey, wine, beer, and other fermented or distilled liquors. It is classed
+as a depressant drug, also called ethyl alcohol. Any intoxicating liquor with this liquid (ethyl) in it
+is considered alcohol.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALDER </pattern>
+<template>
+The alder is a type of tree of the birch family.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALGEBRA </pattern>
+<template>
+<random>
+<li> a generalization of arithmetic in which letters representing numbers are combined according
+to the rules of arithmetic. </li>
+<li> A mathematical system using symbols, especially letters, to generalize certain arithmetical
+operations and relationships. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE ALGORITHM </pattern>
+<template>
+<random>
+<li> An algorithm is a series of instructions to perform a specified set of transformations, such as
+mathematical operations.
+<br />A computer program, like myself is an algorithm.
+<br />So are the rules of a game, or the score to a piece of music. </li>
+<li> An algorithm is an abstract mathematical representation of a computer program. Like alice
+uses a CBR algorithm. </li>
+<li> An algorithm is a set of rules. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE ALIMENTARY CANAL </pattern>
+<template>
+The alimentary canal is the channel in an animal through which food passes.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALKALI </pattern>
+<template>
+An alkali is a chemical substance.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALLAH </pattern>
+<template>
+Allah is the muslim name of god.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALLERGY </pattern>
+<template>
+An allergy is a hypersensitivity of body tissue to a substance.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALLEY </pattern>
+<template>
+An alley is a narrow street.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALLIGATOR </pattern>
+<template>
+An alligator is a crocodilian reptile.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALLOY </pattern>
+<template>
+An alloy is a mixture of a metal and other metals or non metals.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALPHA </pattern>
+<template>
+Alpha is the first letter of the greek alphabet.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALTAR </pattern>
+<template>
+An altar is a block used for making offerings to a deity.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALTAVISTA </pattern>
+<template>
+Altavista is a search engine.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALTHING </pattern>
+<template>
+The althing is the parliament of iceland, it was created in 930 and is the oldest parliamentary
+assembly in the world.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALTIMETER </pattern>
+<template>
+An altimeter is a device measuring altitude.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALUMINIUM </pattern>
+<template>
+Aluminium is a light silvery metal element.
+</template>
+</category>
+<category>
+<pattern> DEFINE ALVEOLUS </pattern>
+<template>
+An alveolus is a lung air sac where gas exchange with the blood occurs.
+</template>
+</category>
+<category>
+<pattern> DEFINE AMBIGUOUS </pattern>
+<template>
+Ambiguous means having two or more possible meanings.
+</template>
+</category>
+<category>
+<pattern> DEFINE AMENTACEAE </pattern>
+<template>
+Amentaceae is the family of trees and plants where the flowers are arranged in the form of catkins.
+</template>
+</category>
+<category>
+<pattern> DEFINE AMETHYST </pattern>
+<template>
+Amethyst is a precious stone.
+</template>
+</category>
+<category>
+<pattern> DEFINE AMMETER </pattern>
+<template>
+An ammeter is a device for measuring electrical current.
+</template>
+</category>
+<category>
+<pattern> DEFINE AMMONIA </pattern>
+<template>
+Ammonia is a colourless gas.
+</template>
+</category>
+<category>
+<pattern> DEFINE AMOEBA </pattern>
+<template>
+An amoeba is a primitive one cell animal.
+</template>
+</category>
+<category>
+<pattern> DEFINE AMPERE </pattern>
+<template>
+The ampere is the fundamental unit of measurement of electrical current.
+</template>
+</category>
+<category>
+<pattern> DEFINE AMPHETAMINE </pattern>
+<template>
+Amphetamine is a drug that induces sleeplessness.
+</template>
+</category>
+<category>
+<pattern> DEFINE AMPHITHEATRE </pattern>
+<template>
+An amphitheatre is a circular or ovular arena surrounded by tiers of seats.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANAEMIA </pattern>
+<template>
+Anaemia is the medical condition of lacking red blood cells.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANALGESIC </pattern>
+<template>
+An analgesic is a pain reliever.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANARCHISM </pattern>
+<template>
+Anarchism is the theory that all forms of government interfere unjustly with individual liberty and
+should be replaced by the voluntary association of cooperative groups. Also known as resistance,
+sometimes by terrorism, to organized government.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANARCHY </pattern>
+<template>
+<random>
+<li> political disorder due to the absence of governmental authority. </li>
+<li> Anarchy is the complete absence of government. Also seen as political disorder and violence
+or lawlessness. Disorder in an sphere of activity. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE ANATOMY </pattern>
+<template>
+Anatomy is the study of animal's structure.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANCHOR </pattern>
+<template>
+An anchor is a heavy implement used for securing boats at sea.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANEMOMETER </pattern>
+<template>
+An anemometer is a device for measuring wind speed.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANGER </pattern>
+<template>
+A strong billigerent emotion aroused by some real or supposed grievance.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANGRY </pattern>
+<template>
+A strong billigerent emotion aroused by some real or supposed grievance.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANIMAL </pattern>
+<template>
+<random>
+<li> An animal is a form of living thing, excluding plants and fungus. </li>
+<li> An animal is a living creature endowed with voluntary movement. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE ANIME </pattern>
+<template>
+Japanese animation.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANKLE </pattern>
+<template>
+The ankle is the joint connecting the foot with the leg.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANONYMOUS </pattern>
+<template>
+Having no name or identity.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANT </pattern>
+<template>
+An ant is a small hymenopterous insect.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANTENNA </pattern>
+<template>
+An antenna is a sensory organ found on the head of insects.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANTHRAX </pattern>
+<template>
+Anthrax is a disease of sheep and cattle transmittable to humans.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANTHROPOLOGY </pattern>
+<template>
+Anthropology is the study of humans as animals.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANTIBIOTIC </pattern>
+<template>
+An antibiotic is a substance that inhibits the growth of micro organisms.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANTIBODY </pattern>
+<template>
+An antibody is a bodily protein that inactivates infection.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANTIDISESTABLISHMENTARIANISM </pattern>
+<template>
+It is the longest word in the English language.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANTIDOTE </pattern>
+<template>
+An antidote is a drug used to counteract poison.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANTIMATTER </pattern>
+<template>
+Fuel for Starships.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANTIMONY </pattern>
+<template>
+Antimony is a metal element.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANUS </pattern>
+<template>
+<random>
+<li> The anus is the exterior entry into the rectum. </li>
+<li> The anus is the opening at the end of the alimentary canal. </li>
+<li> The opening of the rectum, or large intestine, to the outside of the body. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE ANVIL </pattern>
+<template>
+An anvil is a block used by metal smiths.
+</template>
+</category>
+<category>
+<pattern> DEFINE ANYTHING </pattern>
+<template>
+Any object, occurance, or matter what so ever.
+</template>
+</category>
+<category>
+<pattern> DEFINE AOL </pattern>
+<template>
+AOL is a giant Internet and Media corporation.
+</template>
+</category>
+<category>
+<pattern> DEFINE AORTA </pattern>
+<template>
+The aorta is the artery leaving the heart and carrying blood to the body.
+</template>
+</category>
+<category>
+<pattern> DEFINE APATITE </pattern>
+<template>
+Apatite is a calcium phosphate mineral of 5 mohs.
+</template>
+</category>
+<category>
+<pattern> DEFINE APPLE </pattern>
+<template>
+An apple is the edible fruit of the trees of genus malus, rosaceae family.
+</template>
+</category>
+<category>
+<pattern> DEFINE APRICOT </pattern>
+<template>
+The apricot is a fruit tree native to asia.
+</template>
+</category>
+<category>
+<pattern> DEFINE AQUEDUCT </pattern>
+<template>
+An aqueduct is a channel in which water flows by gravity.
+</template>
+</category>
+<category>
+<pattern> DEFINE ARCHAEOLOGY </pattern>
+<template>
+<random>
+<li> It's the study of ancient civilizations... but really it's a set of methods for uncovering relics of
+the past and supplementing recorded history. </li>
+<li> The scientific study of the life and culture of past, especially ancient, peoples, as by
+excavation of ancient cities, relics, artifacts, etc. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE ARCHITECTURE </pattern>
+<template>
+<random>
+<li> The art and science of the design and manipulation of space. Well at least that's what my
+architect friend told me. </li>
+<li> Architects do with buildings what sculptors do with stone. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE ARGALI </pattern>
+<template>
+The argali is a wild sheep found in siberia.
+</template>
+</category>
+<category>
+<pattern> DEFINE ARM </pattern>
+<template>
+The arm is a limb extending from the shoulder of an animal.
+</template>
+</category>
+<category>
+<pattern> DEFINE ARMADILLO </pattern>
+<template>
+The armadillo is a mammal native to south and central america.
+</template>
+</category>
+<category>
+<pattern> DEFINE ARMAGEDDON </pattern>
+<template>
+The end of the world.
+</template>
+</category>
+<category>
+<pattern> DEFINE ARMATURE </pattern>
+<template>
+An armature is a part of an electrical motor or dynamo.
+</template>
+</category>
+<category>
+<pattern> DEFINE ARMOUR </pattern>
+<template>
+Armour is a protective covering.
+</template>
+</category>
+<category>
+<pattern> DEFINE ARMS </pattern>
+<template>
+Arms is a military term referring to weapons.
+</template>
+</category>
+<category>
+<pattern> DEFINE ARROW </pattern>
+<template>
+An arrow is a missile projected by a bow.
+</template>
+</category>
+<category>
+<pattern> DEFINE ARSENAL </pattern>
+<template>
+An arsenal is a place for storing weapons.
+</template>
+</category>
+<category>
+<pattern> DEFINE ARSENIC </pattern>
+<template>
+Arsenic is a poisonous element.
+</template>
+</category>
+<category>
+<pattern> DEFINE ART </pattern>
+<template>
+Sometimes the definition of art depends on the artist; other times it depends on the critic.
+</template>
+</category>
+<category>
+<pattern> DEFINE ARTERY </pattern>
+<template>
+An artery is a vessel that conveys blood from the heart.
+</template>
+</category>
+<category>
+<pattern> DEFINE ASBESTOS </pattern>
+<template>
+Asbestos is a fibrous mineral with a high melting and combustion point.
+</template>
+</category>
+<category>
+<pattern> DEFINE ASCORBIC ACID </pattern>
+<template>
+Ascorbic acid is a simple organic acid found in citrus fruits.
+</template>
+</category>
+<category>
+<pattern> DEFINE ASEXUAL </pattern>
+<template>
+Asexual is a biological term refering to plants and animals which reproduce by division rather than
+sexually.
+</template>
+</category>
+<category>
+<pattern> DEFINE ASH </pattern>
+<template>
+The ash is a type of tree yielding strong elastic timber.
+</template>
+</category>
+<category>
+<pattern> DEFINE ASP </pattern>
+<template>
+The asp is a type of poisonous snake.
+</template>
+</category>
+<category>
+<pattern> DEFINE ASPARTAME </pattern>
+<template>
+Aspirin mixed into chewing gum.
+</template>
+</category>
+<category>
+<pattern> DEFINE ASPEN </pattern>
+<template>
+The aspen is a tree native to europe, north africa and north asia.
+</template>
+</category>
+<category>
+<pattern> DEFINE ASPHALT </pattern>
+<template>
+Asphalt is a material used for road coverings.
+</template>
+</category>
+<category>
+<pattern> DEFINE ASSEMBLER </pattern>
+<template>
+A computer program that translates a low-level programming language into machine language.
+</template>
+</category>
+<category>
+<pattern> DEFINE ASSIMILATION </pattern>
+<template>
+The cultural absorption of a minority group into the main cultural body.
+</template>
+</category>
+<category>
+<pattern> DEFINE ASTEROID </pattern>
+<template>
+An asteroid is a minor planetary body.
+</template>
+</category>
+<category>
+<pattern> DEFINE ASTHMA </pattern>
+<template>
+Asthma is a disease characterized by breathing difficulties.
+</template>
+</category>
+<category>
+<pattern> DEFINE ASTROLOGY </pattern>
+<template>
+Astrology is the science of the relationship between events and the stars.
+</template>
+</category>
+<category>
+<pattern> DEFINE ASTRONOMY </pattern>
+<template>
+The science of the universe in which the stars, planets, etc. are studied, including their origins,
+evolution, composition, motions, relative positions, sizes, etc.
+</template>
+</category>
+<category>
+<pattern> DEFINE ASTUTE </pattern>
+<template>
+Wisdom in political matters.
+</template>
+</category>
+<category>
+<pattern> DEFINE ATHLETICS </pattern>
+<template>
+Athletics is the sport of physical games.
+</template>
+</category>
+<category>
+<pattern> DEFINE ATOM </pattern>
+<template>
+An atom is the smallest quantity of a chemical element which can enter into combination or take
+part in a chemical reaction.
+</template>
+</category>
+<category>
+<pattern> DEFINE AU </pattern>
+<template>
+It could be "gold" or "Australia."
+</template>
+</category>
+<category>
+<pattern> DEFINE AVERAGE </pattern>
+<template>
+A number that typifies a set of which it is a function.
+</template>
+</category>
+<category>
+<pattern> DEFINE AXE </pattern>
+<template>
+An axe is a metal tool for chopping and cleaving.
+</template>
+</category>
+<category>
+<pattern> DEFINE AYUH </pattern>
+<template>
+<set name="it">Ayuh
+</set>means "yes".
+</template>
+</category>
+<category>
+<pattern> DEFINE BABOON </pattern>
+<template>
+The baboon is a medium sized monkey of the genus papio.
+</template>
+</category>
+<category>
+<pattern> DEFINE BACCARAT </pattern>
+<template>
+Baccarat is a gambling card game.
+</template>
+</category>
+<category>
+<pattern> DEFINE BACON </pattern>
+<template>
+Bacon is the cured flesh of the pig.
+</template>
+</category>
+<category>
+<pattern> DEFINE BACTERIOLOGY </pattern>
+<template>
+This is the scientific study of bacteria and diseases caused by them.
+</template>
+</category>
+<category>
+<pattern> DEFINE BADGER </pattern>
+<template>
+The badger is a carnivorous mammal found in england.
+</template>
+</category>
+<category>
+<pattern> DEFINE BADLY </pattern>
+<template>
+How much do you want
+<get name="it"/>?
+</template>
+</category>
+<category>
+<pattern> DEFINE BADMINGTON </pattern>
+<template>
+Badmington is a game played on a court divided in half by a 30 inch deep net five feet above the
+ground.
+</template>
+</category>
+<category>
+<pattern> DEFINE BAGPIPE </pattern>
+<template>
+The bagpipe is a scottish musical instrument.
+</template>
+</category>
+<category>
+<pattern> DEFINE BAKELITE </pattern>
+<template>
+Bakelite is a strong synthetic material resistant to heat and chemicals.
+</template>
+</category>
+<category>
+<pattern> DEFINE BAKER </pattern>
+<template>
+A baker is a person who manufacturers bread.
+</template>
+</category>
+<category>
+<pattern> DEFINE BALALAIKA </pattern>
+<template>
+A balalaika is a stringed russian musical instrument.
+</template>
+</category>
+<category>
+<pattern> DEFINE BALDRIC </pattern>
+<template>
+A baldric is a belt used to support a sword or bugle.
+</template>
+</category>
+<category>
+<pattern> DEFINE BALLAD </pattern>
+<template>
+A ballad is a narrative song.
+</template>
+</category>
+<category>
+<pattern> DEFINE BALLISTICS </pattern>
+<template>
+Ballistics is the theory of missile projection.
+</template>
+</category>
+<category>
+<pattern> DEFINE BALLOON </pattern>
+<template>
+A balloon is a bag filled with gas.
+</template>
+</category>
+<category>
+<pattern> DEFINE BALLOT </pattern>
+<template>
+A ballot is a method of secret voting.
+</template>
+</category>
+<category>
+<pattern> DEFINE BALM </pattern>
+<template>
+Balm is a plant native to europe and western asia.
+</template>
+</category>
+<category>
+<pattern> DEFINE BALSAM </pattern>
+<template>
+Balsam is a genus of herbs.
+</template>
+</category>
+<category>
+<pattern> DEFINE BAMBOO </pattern>
+<template>
+Bamboo is a genus of grasses found in warm climates.
+</template>
+</category>
+<category>
+<pattern> DEFINE BANANA </pattern>
+<template>
+A banana is an oblong yellow tropical fruit high in potassium and so good for your brain. Why
+don't you have one now?
+</template>
+</category>
+<category>
+<pattern> DEFINE BANDICOOT </pattern>
+<template>
+The bandicoot is a small marsupial peculiar to Australasia.
+</template>
+</category>
+<category>
+<pattern> DEFINE BANJO </pattern>
+<template>
+A banjo is a stringed musical instrument.
+</template>
+</category>
+<category>
+<pattern> DEFINE BANSHEE </pattern>
+<template>
+A banshee is a fairy who forewarns of death by wailing.
+</template>
+</category>
+<category>
+<pattern> DEFINE BANYAN </pattern>
+<template>
+The banyan is a large fig tree native to india.
+</template>
+</category>
+<category>
+<pattern> DEFINE BAPTISM </pattern>
+<template>
+<random>
+<li> a Christian sacrament marked by ritual use of water and admitting the recipient to the
+Christian community. </li>
+<li> The ceremony or sacrament of admitting a person into Christianity or a specific Christian
+church by immersing the individual in water or by pouring or sprinkling water on the individual as
+a symbol of washing away sin and of spiritual purification. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE BARBEL </pattern>
+<template>
+The barbel is a type of fresh water fish related to the carp.
+</template>
+</category>
+<category>
+<pattern> DEFINE BARCODE </pattern>
+<template>
+A barcode? Like a lot of things, that depends who you ask. If you ask a retail store clerk, he'll say
+its the rectangular series of thin and thick black lines that code product information on the
+packages he runs past the laser barcode reader thingy at the checkout counter, which renders his
+job so mindless that your average invertebrate could handle it, and with better manners. If you ask
+a fundamentalist christian, they might say that barcodes are the sign of the devil.
+</template>
+</category>
+<category>
+<pattern> DEFINE BARGE </pattern>
+<template>
+A barge is a type of long narrow flat bottomed boat.
+</template>
+</category>
+<category>
+<pattern> DEFINE BARK </pattern>
+<template>
+Bark is the external coating of tree trunks.
+</template>
+</category>
+<category>
+<pattern> DEFINE BAROMETER </pattern>
+<template>
+A barometer is a device for measuring air pressure.
+</template>
+</category>
+<category>
+<pattern> DEFINE BARQUE </pattern>
+<template>
+A barque is a type of masted sailing ship.
+</template>
+</category>
+<category>
+<pattern> DEFINE BARREL </pattern>
+<template>
+A barrel is a dry and liquid measurement that varies with substance.
+</template>
+</category>
+<category>
+<pattern> DEFINE BASALT </pattern>
+<template>
+Basalt is the name given to lava.
+</template>
+</category>
+<category>
+<pattern> DEFINE BASEBALL </pattern>
+<template>
+A game played with a hard, rawhide covered ball and wooden bat by two opposing teams of nine
+or ten players each. It is played on a field with four bases forming a diamond-shaped circuit.
+</template>
+</category>
+<category>
+<pattern> DEFINE BASKET </pattern>
+<template>
+A basket is a woven container.
+</template>
+</category>
+<category>
+<pattern> DEFINE BASKETBALL </pattern>
+<template>
+A game with tall players.
+</template>
+</category>
+<category>
+<pattern> DEFINE BASS </pattern>
+<template>
+The bass is a fish of the perch family.
+</template>
+</category>
+<category>
+<pattern> DEFINE BASSET HOUND </pattern>
+<template>
+The basset hound is a long bodied, short crooked legged dog.
+</template>
+</category>
+<category>
+<pattern> DEFINE BASSOON </pattern>
+<template>
+A bassoon is a woodwind musical instrument.
+</template>
+</category>
+<category>
+<pattern> DEFINE BAT </pattern>
+<template>
+A bat is a nocturnal creature of the order cheiroptera.
+</template>
+</category>
+<category>
+<pattern> DEFINE BAUHAUS </pattern>
+<template>
+Bauhaus is a german institution for training architects, artists and industrial designers founded in
+1919 at weimer.
+</template>
+</category>
+<category>
+<pattern> DEFINE BAY TREE </pattern>
+<template>
+The bay tree is a small evergreen tree.
+</template>
+</category>
+<category>
+<pattern> DEFINE BAYONET </pattern>
+<template>
+A bayonet is a short sword attached to the muzzle of a firearm.
+</template>
+</category>
+<category>
+<pattern> DEFINE BEAGLE </pattern>
+<template>
+The beagle is a small dog of the fox hound type.
+</template>
+</category>
+<category>
+<pattern> DEFINE BEAN </pattern>
+<template>
+A bean is the seed of a plant of the order leguminosae.
+</template>
+</category>
+<category>
+<pattern> DEFINE BEAR </pattern>
+<template>
+A bear is a large furry animal with lots of muscles, teeth, and claws whom you should not irritate.
+They are especially jealous of their food, their sleep, and their young.
+</template>
+</category>
+<category>
+<pattern> DEFINE BEAUTIFUL </pattern>
+<template>
+<random>
+<li> applies to whatever excites the keenest of pleasure to the senses and stirs emotion through the
+senses. </li>
+<li> Describes something that is very pleasing to the eye, ear, mind, etc. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE BEAUTY </pattern>
+<template>
+The quality attributed to whatever pleases of satisfies the senses or mind, as by line, color, form,
+texture, proportion, rhythmic motion, tone, etc., or by behavior attitude, etc. A very good looking
+woman.
+</template>
+</category>
+<category>
+<pattern> DEFINE BEAVER </pattern>
+<template>
+The beaver is a large amphibian rodent.
+</template>
+</category>
+<category>
+<pattern> DEFINE BEE </pattern>
+<template>
+<random>
+<li> A bee is a flying insect with black and yellow stripes and a nasty sting. </li>
+<li> The bee is a four winged stinging insect of the order hymenoptera. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE BEECH </pattern>
+<template>
+The beech is a forest amentaceae.
+</template>
+</category>
+<category>
+<pattern> DEFINE BEEF </pattern>
+<template>
+Beef is the meat derived from the carcass of bulls and cows.
+</template>
+</category>
+<category>
+<pattern> DEFINE BEER </pattern>
+<template>
+<random>
+<li> An existentialist. </li>
+<li> An alcoholic beverage made from grain, especially malted barley, fermented by yeast and
+flavored with hops especially Such a beverage is produced by slow fermentation at a relatively
+low temperature. </li>
+<li> Beer is a drink of fermented hops, malt and barley. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE BELL </pattern>
+<template>
+A bell is a hollow, cup shaped metal body that emits a pealing tone.
+</template>
+</category>
+<category>
+<pattern> DEFINE BELLADONNA </pattern>
+<template>
+Belladonna is a poisonous plant from which atropine is derived.
+</template>
+</category>
+<category>
+<pattern> DEFINE BELT </pattern>
+<template>
+A belt is a flat strip of material worn around the waist.
+</template>
+</category>
+<category>
+<pattern> DEFINE BELUGA </pattern>
+<template>
+The beluga is a large dolphin.
+</template>
+</category>
+<category>
+<pattern> DEFINE BENEDICTINE </pattern>
+<template>
+Benedictine is a green liqueur.
+</template>
+</category>
+<category>
+<pattern> DEFINE BENZINE </pattern>
+<template>
+Benzine is a distillate of petroleum used in dry cleaning.
+</template>
+</category>
+<category>
+<pattern> DEFINE BESSEMER CONVERTER </pattern>
+<template>
+The bessemer converter is a process for making cheap steel.
+</template>
+</category>
+<category>
+<pattern> DEFINE BEZIQUE </pattern>
+<template>
+Bezique is a card game using some of two packs of cards.
+</template>
+</category>
+<category>
+<pattern> DEFINE BHANG </pattern>
+<template>
+Bhang is the indian name for cannabis indica.
+</template>
+</category>
+<category>
+<pattern> DEFINE BICYCLE </pattern>
+<template>
+A bicycle is a two wheeled vehicle.
+</template>
+</category>
+<category>
+<pattern> DEFINE BILBERRY </pattern>
+<template>
+The bilberry is a small shrub of the order ericaceae.
+</template>
+</category>
+<category>
+<pattern> DEFINE BILE </pattern>
+<template>
+Bile is a secretion of the liver stored in the gall bladder.
+</template>
+</category>
+<category>
+<pattern> DEFINE BILHARZIA </pattern>
+<template>
+Bilharzia is a parasitic worm of the fluke group.
+</template>
+</category>
+<category>
+<pattern> DEFINE BILLIARDS </pattern>
+<template>
+Billiards is a game played with two white balls and one red ball and a cue on a slate bed table.
+</template>
+</category>
+<category>
+<pattern> DEFINE BINDWEED </pattern>
+<template>
+Bindweed is a perennial herb of the order convolvulaceae.
+</template>
+</category>
+<category>
+<pattern> DEFINE BIOINFORMATICS </pattern>
+<template>
+A fancy name for applied computer science in biology.
+</template>
+</category>
+<category>
+<pattern> DEFINE BIOLOGY </pattern>
+<template>
+<random>
+<li> The study of life. </li>
+<li> Well, from what I know it deals with the study of life. </li>
+<li> <get name="name"/>, biology is the study of life. </li>
+<li> Biology is the science of life and living things. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE BIRCH </pattern>
+<template>
+The birch is a slender tree.
+</template>
+</category>
+<category>
+<pattern> DEFINE BIRD </pattern>
+<template>
+<random>
+<li> They are thought to be descendants of dinsosaurs. </li>
+<li> A bird is a warm blooded feathered vertebrate that lays eggs. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE BIRD OF PREY </pattern>
+<template>
+A bird of prey is a bird with a hooked beak and sharp claws which hunts other animals.
+</template>
+</category>
+<category>
+<pattern> DEFINE BISHOPWEED </pattern>
+<template>
+Bishopweed is a perennial herb used to treat gout.
+</template>
+</category>
+<category>
+<pattern> DEFINE BISMUTH </pattern>
+<template>
+Bismuth is a metal element.
+</template>
+</category>
+<category>
+<pattern> DEFINE BISON </pattern>
+<template>
+The bison is a division of the ox family.
+</template>
+</category>
+<category>
+<pattern> DEFINE BITTER </pattern>
+<template>
+Bitter is a taste sensation caused by stimulation of the gustatory nerve.
+</template>
+</category>
+<category>
+<pattern> DEFINE BITTERN </pattern>
+<template>
+The bittern is a british marsh bird related to the heron.
+</template>
+</category>
+<category>
+<pattern> DEFINE BITUMEN </pattern>
+<template>
+Bitumen is a natural inflammable pitchy hydrocarbon.
+</template>
+</category>
+<category>
+<pattern> DEFINE BLACK </pattern>
+<template>
+<random>
+<li> The achromatic color of least lightness characteristically perceived to belong to objects that
+neither reflect nor transmit light. </li>
+<li> Designating of any of the dark skinned tradition inhabitants of sub-Saharan Aftica, Australia,
+or Melanesia or the descendants in other parts of the world. Opposite to white; of the color of
+coal or pitch. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE BLADDER </pattern>
+<template>
+<random>
+<li> The bladder is a sack in the abdomen which collects urine from the kidneys. </li>
+<li> The bladder is a hollow organ that acts as a reservoir for urine. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE BLADDERWORT </pattern>
+<template>
+The bladderwort is a genus of herbs of the order lentibulariaceae.
+</template>
+</category>
+<category>
+<pattern> DEFINE BLAST </pattern>
+<template>
+A blast is an explosion, and/or a lot of fun. Are we having a blast, or what?
+</template>
+</category>
+<category>
+<pattern> DEFINE BLENNY </pattern>
+<template>
+Blenny is a genus of common small fish.
+</template>
+</category>
+<category>
+<pattern> DEFINE BLINDWORM </pattern>
+<template>
+The blindworm is a legless lizard of the anguidae family.
+</template>
+</category>
+<category>
+<pattern> DEFINE BLOND </pattern>
+<template>
+A blond is someone who is reputedly having more fun than you if you are not. What do you
+think? Do blond's have more fun?
+</template>
+</category>
+<category>
+<pattern> DEFINE BLOOD </pattern>
+<template>
+<random>
+<li> Blood is a body fluid that carries food and oxygen to cells. </li>
+<li> The usually red fluid, consisting of plasma, red and white blood cells, etc., that circulates
+through the heart, arteries, and veins of vertebrates.
+<br />Blood is a body tissue that carries oxygen, hormones, cell-building material, etc.,to, and
+carbon dioxide and waste matter away from, the other body tissues. </li>
+</random>
+</template>
+</category>
+<category>
+<pattern> DEFINE BLOODSTONE </pattern>
+<template>
+Bloodstone is a dark green variety of chalcedony.
+</template>
+</category>
+<category>
+<pattern> DEFINE BLOWPIPE </pattern>
+<template>
+A blowpipe is a tubular weapon through which a missile is blown.
+</template>
+</category>
+<category>
+<pattern> DEFINE BLUBBER </pattern>
+<template>
+Blubber is the thick coating of fat enveloping whales.
+</template>
+</category>
+<category>
+<pattern> DEFINE BLUE </pattern>
+<template>
+Blue is a color. The sky is blue.
+</template>
+</category>
+<category>
+<pattern> DEFINE BLUE PETER </pattern>
+<template>
+The blue peter is a flag flown by ships as they are about to sail.
+</template>
+</category>
+<category>
+<pattern> DEFINE BLUEFISH </pattern>
+<template>
+The bluefish is a fish found off the east coast of north america.
+</template>
+</category>
+<category>
+<pattern> DEFINE BLUETHROAT </pattern>
+<template>
+The bluethroat is a small bird.
+</template>
+</category>
+<category>
+<pattern> DEFINE BOA </pattern>
+<template>
+The boa is a genus of large snakes found in tropical america and madagascar.
+</template>
+</category>
+<category>
+<pattern> DEFINE BOAR </pattern>
+<template>
+The boar is a wild pig.
+</template>
+</category>
+<category>
+<pattern> DEFINE BOAT </pattern>
+<template>
+A boat is a waterborne vessel used to bear humans and their freight.
+</template>
+</category>
+<category>
+<pattern> DEFINE BOATBILL </pattern>
+<template>
+The boatbill is a heron type bird found in brazil.
+</template>
+</category>
+<category>
+<pattern> DEFINE BOG </pattern>
+<template>
+Bog is the name given to soft spongy land.
+</template>
+</category>
+<category>
+<pattern> DEFINE BOKKEN </pattern>
+<template>
+A bokken is a Japanese wooden imitation samurai sword used by kendoka when demonstrating or
+practising standard kendo movements.
+</template>
+</category>
+<category>
+<pattern> DEFINE BOLAS </pattern>
+<template>
+Bolas is a weapon of rope with balls at the end.
+</template>
+</category>
+<category>
+<pattern> DEFINE BOMB </pattern>
+<template>
+A bomb is a hollow shell filled with an explosive.
+</template>
+</category>
+<category>
+<pattern> DEFINE BOMBAY DUCK </pattern>
+<template>
+The bombay duck is a small fish of the indian and china seas.
+</template>
+</category>
+<category>
+<pattern> DEFINE BONE </pattern>
+<template>
+Bone is the hard skeletal part of an animal.
+</template>
+</category>
+<category>
+<pattern> DEFINE BONIN </pattern>
+<template>
+Bonin is a group of islands in the north pacific.
+</template>
+</category>
+<category>
+<pattern> DEFINE BONSAI </pattern>
+<template>
+Small Japanese trees.
+</template>
+</category>
+<category>
+<pattern> DEFINE BOOK </pattern>
+<template>
+A book is a paper output format, invented by Gutenberg.
+</template>
+</category>
+<category>
+<pattern> DEFINE BOOMERANG </pattern>
+<template>
+A boomerang is a curved wooden weapon of australian aborigines.
+</template>
+</category>
+<category>
+<pattern> DEFINE BORAGE </pattern>
+<template>
+Borage is a biennial herb of the order boraginaceae.
+</template>
+</category>
+<category>
+<pattern> DEFINE BORAX </pattern>
+<template>
+Borax is a natural mineral being boric acid and sodium.
+</template>
+</category>
+<category>
+<pattern> DEFINE BOREDOM </pattern>
+<template>
+Long periods of inactivity with few options.
+</template>
+</category>
+<category>
+<pattern> DEFINE BOTANY </pattern>
+<template>
+Botany is the science of plant life.
+</template>
+</category>
+<category>
+<pattern> DEFINE BOTMASTER </pattern>
+<template>
+A Botmaster is the person who authors and maintains a chatterbot "personality".
+</template>
+</category>
+<category>
+<pattern> DEFINE BOW </pattern>
+<template>
+A bow is a weapon for propelling arrows.
+</template>
+</category>
+<category>
+<pattern> DEFINE BOX </pattern>
+<template>
+A box is something that, if you are in one, you should get out of, and if you are out of one, you
+probably miss it sometimes.
+</template>
+</category>
+<category>
+<pattern> DEFINE BOX THORN </pattern>
+<template>
+Box thorn is a climbing solanaceae.
+</template>
+</category>
+<category>
+<pattern> DEFINE BRA </pattern>
+<template>
+A bra is an adult human female's undershirt. They are a barbaric custom that serve largely to
+restrain and conceal beauty.
+</template>
+</category>
+<category>
+<pattern> DEFINE BRACKEN </pattern>
+<template>
+Bracken is a fern growing on heathland.
+</template>
+</category>
+<category>
+<pattern> DEFINE BRAIN </pattern>
+<template>
+The brain is the central organ of the nervous system.
+</template>
+</category>
+<category>
+<pattern> DEFINE BRAMBLE </pattern>
+<template>
+The bramble is a prickly shrub of the order rosaceae.
+</template>
+</category>
+<category>
+<pattern> DEFINE BRAN </pattern>
+<template>
+Bran is the outer covering of wheat grains.
+</template>
+</category>
+<category>
+<pattern> DEFINE BREAM </pattern>
+<template>
+The bream is a fresh water fish allied to the carp.
+</template>
+</category>
+<category>
+<pattern> DEFINE BREAST </pattern>
+<template>
+Either of two milk-secreting glandular organs on the chest of a woman, the human mammary
+gland.
+</template>
+</category>
+<category>
+<pattern> DEFINE BREASTS </pattern>
+<template>
+Can't you think about anything else?<br /><srai>BREAST></srai>
+</template>
+</category>
+<category>
+<pattern> DEFINE BREEDER </pattern>
+<template>
+A breeder is a human or other biological entity that produces offspring.
+</template>
+</category>
+<category>
+<pattern> DEFINE BRIG </pattern>
+<template>
+A brig is a two masted sailing ship.
+</template>
+</category>
+<category>
+<pattern> DEFINE BRILL </pattern>
+<template>
+The brill is a type of fish like the turbot.
+</template>
+</category>
+<category>
+<pattern> DEFINE BROADSWORD </pattern>
+<template>
+A broadsword is a sword with a broad blade designed chiefly for cutting.
+</template>
+</category>
+<category>
+<pattern> DEFINE BROMINE </pattern>
+<template>
+Bromine is a non metallic element.
+</template>
+</category>
+<category>
+<pattern> DEFINE BRONCHITIS </pattern>
+<template>
+Bronchitis is a chronic inflammation of the bronchial mucous membrane.
+</template>
+</category>
+<category>
+<pattern> DEFINE BROOM </pattern>
+<template>
+Broom is a shrub of the order leguminosae.
+</template>
+</category>
+<category>
+<pattern> DEFINE BUCKSKIN </pattern>
+<template>
+Buckskin is a soft form of leather.
+</template>
+</category>
+<category>
+<pattern> DEFINE BUCKTHORN </pattern>
+<template>
+The buckthorn is a shrub of the order rhamnaceae.
+</template>
+</category>
+<category>
+<pattern> DEFINE BUDDHISM </pattern>
+<template>
+A religion and philosophic system of central and eastern Asia, founded in India in the 6th century
+B.C. by Buddha. It teaches that right thinking and self-denial will enable the soul to reach
+Nirvana, a divine state of release from misdirected desire.
+</template>
+</category>
